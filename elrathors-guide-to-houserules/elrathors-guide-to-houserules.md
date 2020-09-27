@@ -3,6 +3,7 @@
 - No flying
 - Max out one of the dice sets for crit. damage
 - Death Saving Throws are rolled by the gamemaster
+
 This is a short set of rules used in all my future Pen and Paper Roleplay sessions. They attempt to improve storytelling and provide fun for every player at the table. Most of them are tailored to fit games played in the confines of Dungeon & Dragons 5th Edition, but especially rule number one applies to absolutely **every** game no matter the system.
 
 # X - Card always applies
@@ -25,4 +26,5 @@ When your HP drops to 0 your Death Saving Throws are roled by your game master i
 
 _This rule tries to prevent the "Oh he has already two successful Death Saves, I won't help him" problem and attempts to make situations like going unconscious more dramatic_
 _____
+
 **Important**: If I have the honor to be your gamemaster, make sure to check in with me in session zero weather we'll use all of the above or have special per-group rulings that will take their place.
